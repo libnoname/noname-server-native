@@ -1,0 +1,18 @@
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+# The file is written by libnoname
+# Licensed under Apache-2.0
+# File: .editorconfig (noname-server-go/.editorconfig)
+# Content: Noname Server(Go Version) project editor config.
+# Copyright (c) 2025 Noname Developers All rights reserved
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+
+[*.go]
+indent_style = tab
+indent_size = 4
