@@ -5,7 +5,7 @@
 - 无名杀的联机服务端
 - 无名杀网页端所需的 HTTP 服务端，并同时提供对应目录下的文件操作后端
 
-> 该项目是 [libnoname/noname-server](https://github.com/libnoname/noname-server) 的 Native 版本，使用 Crystal 语言编写
+> 该项目是 [libnoname/noname-server](https://github.com/libnoname/noname-server) 的 Native 版本，使用 Go 语言编写
 
 ## 如何构建/安装
 
