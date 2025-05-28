@@ -1,4 +1,4 @@
-module github.com/libnoname/noname-server-go
+module github.com/libnoname/noname-server-native
 
 go 1.24.2
 
